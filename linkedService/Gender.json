@@ -1,0 +1,12 @@
+{
+	"name": "Gender",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/sharanya218/Olympic-Azure_DE_Proj/1fb8a7bc061c7b7becee4e5355959a5f8a46c00e/EntriesGender.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
